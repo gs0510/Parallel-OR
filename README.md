@@ -1,11 +1,11 @@
 # Parallel-OR  
 
 Problem Statement: 
-A1 A2 A3.......Ai computations result in boolean values.
-  We have to calculate A1|A2|A3.....|Ai.
-  If any of the task gives true then we need to terminate further computation.
+A1 A2 A3.......Ai computations result in boolean values.<br/>
+  We have to calculate A1|A2|A3.....|Ai.  
+  If any of the task gives true then we need to terminate further computation.  
 
-Communication within the processes in case a process gets a true as a result.
+Communication within the processes in case a process gets a true as a result.  
 
   -Scheduling the computations given P nodes and C cores per node.
 
